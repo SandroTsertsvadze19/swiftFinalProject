@@ -2,7 +2,7 @@
 //  swiftAppApp.swift
 //  swiftApp
 //
-//  Created by builder on 1/19/25.
+//  Created by Sandro Tsertsvadze on 1/19/25.
 //
 
 import SwiftUI
